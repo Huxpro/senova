@@ -56,7 +56,7 @@ a:hover{
 .warning{
 	position: absolute;
 	top: 0px;
-	background: rgb(227,0,0);
+	background: rgb(0,0,0);
 	text-align: center;
 	width: 100%;
 	padding: 4px;
